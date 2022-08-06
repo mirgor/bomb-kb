@@ -7,6 +7,8 @@ cssclass:
 publish: false
 ---
 
+← [Повернутись](./index.md)
+
 # Міна ПМН-2
 
 ![](./assets/pmn-2.png)

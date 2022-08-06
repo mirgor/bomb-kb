@@ -1,18 +1,22 @@
 ---
-title: { { title } }
+title: "{{title}}"
 image: unknown.png
-publish: { { date:YYYY-MM-DD HH:mm } }
+date: "{{date:YYYY-MM-DD}} {{time:HH:mm}}"
 type: kb|page
 tags:
-aliases: { { title } }
+aliases: "{{title}}"
 keywords:
 cssclass:
+publish: false
 lang: uk-UA
 description:
 video:
 gallery:
   - unknown.png
 ---
+
+← [Повернутись](./index.md)
+
 
 # {{title}}
 

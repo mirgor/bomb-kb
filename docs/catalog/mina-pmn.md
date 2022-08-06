@@ -7,6 +7,8 @@ cssclass:
 publish: false
 ---
 
+← [Повернутись](./index.md)
+
 # Противопехотная мина ПМН
 
 ![](./assets/pmn.png)

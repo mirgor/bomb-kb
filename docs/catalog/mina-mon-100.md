@@ -7,6 +7,8 @@ cssclass:
 publish: false
 ---
 
+← [Повернутись](./index.md)
+
 # Міна осколочна направлена МОН-100
 https://www.youtube.com/watch?v=Fdauo1-wFbI
 

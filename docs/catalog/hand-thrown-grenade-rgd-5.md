@@ -7,11 +7,13 @@ cssclass:
 publish: false
 ---
 
+← [Повернутись](./index.md)
+
 # Ручна граната РГД-5
 
-![](assets/rgd-5.png)
-![](assets/rgd-5_1.png)
-![](assets/rgd-5_2.png)
+![](./assets/rgd-5.png)
+![](./assets/rgd-5_1.png)
+![](./assets/rgd-5_2.png)
 
 
 

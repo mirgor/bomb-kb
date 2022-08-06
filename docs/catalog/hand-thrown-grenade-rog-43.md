@@ -7,9 +7,11 @@ cssclass:
 publish: false
 ---
 
+← [Повернутись](./index.md)
+
 # Ручна граната РОГ-43
 
-![](assets/rog.png)
+![](./assets/rog.png)
 
 
 

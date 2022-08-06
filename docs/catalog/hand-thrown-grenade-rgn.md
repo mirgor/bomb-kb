@@ -7,11 +7,13 @@ cssclass:
 publish: false
 ---
 
+← [Повернутись](./index.md)
+
 # Ручна граната РГН
 
-![](assets/rgn.png)
+![](./assets/rgn.png)
 
-![](assets/rgn_1.png)
+![](./assets/rgn_1.png)
 
 
 

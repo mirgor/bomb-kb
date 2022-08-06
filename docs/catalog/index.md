@@ -1,3 +1,22 @@
+---
+title: Довідник вибухонебепечних предметів
+image: unknown.png
+date: 2022-08-06 16:24
+type: kb|catalog
+tags:
+aliases: Довідник
+keywords:
+cssclass:
+publish: false
+lang: uk-UA
+description:
+video:
+gallery:
+  - unknown.png
+---
+
+# Довідник вибухонебепечних предметів
+
 Міни протипіхотні
 
 - [Міна ПМН](mina-pmn.md)
