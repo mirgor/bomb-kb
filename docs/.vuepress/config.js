@@ -19,9 +19,22 @@ module.exports = {
             },
         ],
     }),
-    plugins: [
-        // googleAnalyticsPlugin({
-        //     id: 'G-XXXXXXXXXX'
-        // }),
+    footer: [
+        {
+            text: "Latest Posts",
+            link: "/posts",
+        },
+        {
+            text: "Facebook",
+            link: "https://facebook.com/",
+        },
+        {
+            text: "Twitter",
+            link: "https://twitter.com",
+        },
+        {
+            text: "Github",
+            link: "https://github.com/",
+        },
     ],
 }
