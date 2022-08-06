@@ -1,0 +1,28 @@
+{
+  "name": "bomb-kb",
+  "version": "1.0.0",
+  "description": "Knowledge base on explosive objects on the territory of Ukraine after the invasion of russia",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mirgor/bomb-kb.git"
+  },
+  "author": "mirgor <botsula@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirgor/bomb-kb/issues"
+  },
+  "homepage": "https://github.com/mirgor/bomb-kb#readme",
+  "scripts": {
+    "test": "test",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [
+    "knowledgebase",
+    "bomb"
+  ],
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.49"
+  }
+}
