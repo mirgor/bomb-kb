@@ -1,7 +1,6 @@
 ---
 title: "{{title}}"
 image: unknown.png
-date: "{{date:YYYY-MM-DD}} {{time:HH:mm}}"
 type: kb|page
 tags:
 aliases: "{{title}}"
@@ -13,10 +12,15 @@ description:
 video:
 gallery:
   - unknown.png
+prev:
+  text: Перелік
+  link: /catalog/index.html
+next:
+  text: МОН-90
+  link: /catalog/mina-mon-90.html
 ---
 
 ← [Повернутись](./index.md)
-
 
 # {{title}}
 

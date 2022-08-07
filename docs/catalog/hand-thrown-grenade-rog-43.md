@@ -1,6 +1,6 @@
 ---
 title: Ручна граната РОГ-43
-tags: 
+tags: grenade, граната
 aliases: РОГ-43
 keywords:
 cssclass:

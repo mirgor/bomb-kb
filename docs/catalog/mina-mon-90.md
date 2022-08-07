@@ -25,11 +25,11 @@ https://www.youtube.com/watch?v=2u1G2uBul6k
 
 ![](./assets/mon-90_1.png)
 
-![](assets/mon-90.png)
+![](./assets/mon-90.png)
 ![](./assets/mon-90_3.png)
-![](./assets/Pasted%20image%2020220803194453.png)
-![](assets/zona.png)
-![](assets/mon-50-zona.png)
+
+![](./assets/zona.png)
+![](./assets/mon-50-zona.png)
 
 ##### ОСНОВНЫЕ ТАКТИКО-ТЕХНИЧЕСКИЕ ХАРАКТЕРИСИКИ
 
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=2u1G2uBul6k
 
 Підрив міни МОН-90 може здійснюватися як з пульта оператора, так і при зачепленні обривного або натяжного датчика підривника. Міна не має елементів самоліквідації, невилучності та необезшкоджуваності.
 
-![](assets/mon-100_3.png)
+![](./assets/mon-90_5.png)
 
 ---
 
