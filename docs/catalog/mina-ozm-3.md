@@ -75,10 +75,10 @@ next:
 
 ## Зображення
 
-![](./assets/Pasted%20image%2020220816093821.png)
-![](./assets/Pasted%20image%2020220816093833.png)
-![](./assets/Pasted%20image%2020220816093913.png)
-![](./assets/Pasted%20image%2020220816122511.png)
+![](assets/img20220816093821.png)
+![](assets/img20220816093833.png)
+![](assets/img20220816093913.png)
+![](assets/img20220816122511.png)
 
 
 
