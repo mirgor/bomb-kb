@@ -28,7 +28,7 @@ next:
 
 
 ::: heroImage
-![](./assets/Pasted%20image%2020220811162205.png)
+![](assets/img20220811162205.png)
 :::
 
 # Міна дистанційного мінування ПФМ-1
@@ -78,25 +78,25 @@ next:
 ## Зображення
 
 ::: gallery
-- ![](./assets/Pasted%20image%2020220811162205.png)
-- ![](./assets/Pasted%20image%2020220811155856.png)
-- ![](./assets/Pasted%20image%2020220811155913.png)
-- ![](./assets/Pasted%20image%2020220811160300.png)
-- ![](./assets/Pasted%20image%2020220811161208.png)
-- ![](./assets/Pasted%20image%2020220811162048.png)
-- ![](./assets/Pasted%20image%2020220811161135.png)
-- ![](./assets/Pasted%20image%2020220811161323.png)
-- ![](./assets/Pasted%20image%2020220811161732.png)
-- ![](./assets/Pasted%20image%2020220811161740.png)
-- ![](./assets/Pasted%20image%2020220811161813.png)
-- ![](./assets/Pasted%20image%2020220811161851.png)
-- ![](./assets/Pasted%20image%2020220811161947.png)
-- ![](./assets/Pasted%20image%2020220811162015.png)
-- ![](./assets/Pasted%20image%2020220811162331.png)
-- ![](./assets/Pasted%20image%2020220811162337.png)
-- ![](./assets/Pasted%20image%2020220811162508.png)
-- ![](./assets/Pasted%20image%2020220811161223.png)
-- ![](./assets/Pasted%20image%2020220811162223.png)
+- ![](assets/img20220811162205.png)
+- ![](assets/img20220811155856.png)
+- ![](assets/img20220811155913.png)
+- ![](assets/img20220811160300.png)
+- ![](assets/img20220811161208.png)
+- ![](assets/img20220811162048.png)
+- ![](assets/img20220811161135.png)
+- ![](assets/img20220811161323.png)
+- ![](assets/img20220811161732.png)
+- ![](assets/img20220811161740.png)
+- ![](assets/img20220811161813.png)
+- ![](assets/img20220811161851.png)
+- ![](assets/img20220811161947.png)
+- ![](assets/img20220811162015.png)
+- ![](assets/img20220811162331.png)
+- ![](assets/img20220811162337.png)
+- ![](assets/img20220811162508.png)
+- ![](assets/img20220811161223.png)
+- ![](assets/img20220811162223.png)
 :::
 
 

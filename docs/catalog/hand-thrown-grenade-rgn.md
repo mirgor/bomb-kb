@@ -69,10 +69,10 @@ next:
 
 ## Зображення
 
-![](./assets/Pasted%20image%2020220808164457.png)
-![](./assets/Pasted%20image%2020220808161742.png)
-![](./assets/Pasted%20image%2020220808164820.png)
-![](./assets/Pasted%20image%2020220808164832.png)
+![](assets/img20220808164457.png)
+![](assets/img1.png)
+![](assets/img20220808164820.png)
+![](assets/img20220808164832.png)
 
 
 
