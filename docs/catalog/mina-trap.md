@@ -1,6 +1,6 @@
 ---
 # Custom KB params
-title: {{title}}
+title: Міни пастки
 subtitle: "Міна протипіхотна осколкова спрямованого ураження керована"
 description: "Міна протипіхотна осколкова спрямованого ураження керована. Призначена для ураження людини, у тому числі у вантажному та легковому транспорті."
 type: kb|page
@@ -10,7 +10,7 @@ gallery:
   - img2.png
 
 # Obsidian metadata YAML front matter params
-aliases: {{title}}
+aliases: Міни пастки
 tags:
 keywords:
 cssclass:
@@ -28,7 +28,7 @@ next:
 
 ← [Повернутись](./index.md)
 
-# {{title}}
+# Міни пастки
 
 Short info
 
@@ -65,11 +65,11 @@ Short info
 
 ## Відео
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QI6MCKHnu8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dMgjBZUinMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Зображення
 
 #### Інформаційні джерела
 
-1.  Матеріал з Вікіпедії [МОН-50](https://uk.wikipedia.org/wiki/%D0%9C%D0%9E%D0%9D-50)
+1.  
 2.

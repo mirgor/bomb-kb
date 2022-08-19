@@ -40,7 +40,7 @@ publish: false
 Самоликвидация (суток) - нет
 Срок боевой работы (лет) - до 10
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lg5f9BXn8Uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---------
 Sources:
 

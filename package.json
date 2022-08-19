@@ -16,7 +16,8 @@
   "scripts": {
     "test": "test",
     "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:build": "vuepress build docs",
+    "info": "vuepress info"
   },
   "keywords": [
     "knowledgebase",
@@ -27,6 +28,8 @@
     "@vuepress/plugin-external-link-icon": "^2.0.0-beta.49",
     "@vuepress/plugin-medium-zoom": "^2.0.0-beta.49",
     "@vuepress/plugin-search": "^2.0.0-beta.49",
-    "vuepress": "^2.0.0-beta.49"
-  }
+    "vuepress": "^2.0.0-beta.49",
+    "vuepress-plugin-container": "^2.1.5"
+  },
+  "dependencies": {}
 }
