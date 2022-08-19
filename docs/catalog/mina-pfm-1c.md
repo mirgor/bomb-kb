@@ -1,27 +1,41 @@
 ---
-layout: 
+layout: SpecialLayout
+
+heroImage: https://vuepress.vuejs.org/hero.png
+heroText: test
+tagline: 
+actionText: Quick Start →
+actionLink: /guide/
+features:
+- title: Feature 1 Title
+  details: Feature 1 Description
+- title: Feature 2 Title
+  details: Feature 2 Description
+- title: Feature 3 Title
+  details: Feature 3 Description
+footer: Made by  with ❤️
 
 # Custom KB params
-title: Міна дистанційного мінування ПФМ-1С
-subtitle: "Міна протипіхотна фугасна дистанційного мінування ПФМ-1С"
-description: "ПФМ-1 «Лепесток» — протипіхотна міна натискної дії радянського виробництва. Заборонена Оттавською конвенцією. "
-type: kbpage
+# title: Міна дистанційного мінування ПФМ-1С
+# subtitle: "Міна протипіхотна фугасна дистанційного мінування ПФМ-1С"
+# description: "ПФМ-1 «Лепесток» — протипіхотна міна натискної дії радянського виробництва. Заборонена Оттавською конвенцією. "
+# type: kbpage
 
-# Obsidian metadata YAML front matter params
-aliases: mina-pfm-1c
-tags:
-keywords:
-cssclass:
-publish: false
+# # Obsidian metadata YAML front matter params
+# aliases: mina-pfm-1c
+# tags:
+# keywords:
+# cssclass:
+# publish: false
 
-# VuePress 2.x Frontmatter params
-lang: uk-UA
-prev:
-  text: Перелік
-  link: /catalog/index.html
-next:
-  text: МОН-90
-  link: /catalog/mina-mon-90.html
+# # VuePress 2.x Frontmatter params
+# lang: uk-UA
+# prev:
+#   text: Перелік
+#   link: /catalog/index.html
+# next:
+#   text: МОН-90
+#   link: /catalog/mina-mon-90.html
 ---
 
 ← [Повернутись](../index.md)
