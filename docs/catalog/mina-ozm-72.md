@@ -71,13 +71,13 @@ Short info
 
 ## Зображення
 
-![](assets/img20220816122600.png)
-![](assets/img20220816122616.png)
-![](assets/img20220816122635.png)
-![](assets/img20220816122648.png)
-![](assets/img20220816122710.png)
-![](assets/img20220816122726.png)
-![](assets/img20220816122758.png)
+![](./assets/img20220816122600.png)
+![](./assets/img20220816122616.png)
+![](./assets/img20220816122635.png)
+![](./assets/img20220816122648.png)
+![](./assets/img20220816122710.png)
+![](./assets/img20220816122726.png)
+![](./assets/img20220816122758.png)
 
 
 #### Інформаційні джерела

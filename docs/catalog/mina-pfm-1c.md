@@ -1,48 +1,34 @@
 ---
-layout: SpecialLayout
+# layout: MyLayout
 
-heroImage: https://vuepress.vuejs.org/hero.png
-heroText: test
-tagline: 
-actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
-footer: Made by  with ❤️
+# # Custom KB params
+title: Міна дистанційного мінування ПФМ-1С
+subtitle: "Міна протипіхотна фугасна дистанційного мінування ПФМ-1С"
+description: "ПФМ-1 «Лепесток» — протипіхотна міна натискної дії радянського виробництва. Заборонена Оттавською конвенцією. "
+type: kbpage
 
-# Custom KB params
-# title: Міна дистанційного мінування ПФМ-1С
-# subtitle: "Міна протипіхотна фугасна дистанційного мінування ПФМ-1С"
-# description: "ПФМ-1 «Лепесток» — протипіхотна міна натискної дії радянського виробництва. Заборонена Оттавською конвенцією. "
-# type: kbpage
+# Obsidian metadata YAML front matter params
+aliases: mina-pfm-1c
+tags:
+keywords:
+cssclass:
+publish: false
 
-# # Obsidian metadata YAML front matter params
-# aliases: mina-pfm-1c
-# tags:
-# keywords:
-# cssclass:
-# publish: false
-
-# # VuePress 2.x Frontmatter params
-# lang: uk-UA
-# prev:
-#   text: Перелік
-#   link: /catalog/index.html
-# next:
-#   text: МОН-90
-#   link: /catalog/mina-mon-90.html
+# VuePress 2.x Frontmatter params
+lang: uk-UA
+prev:
+  text: Перелік
+  link: /catalog/index.html
+next:
+  text: МОН-90
+  link: /catalog/mina-mon-90.html
 ---
 
 ← [Повернутись](../index.md)
 
 
 ::: heroImage
-![](assets/img20220811162205.png)
+![](./assets/img20220811162205.png)
 :::
 
 # Міна дистанційного мінування ПФМ-1
@@ -91,27 +77,33 @@ footer: Made by  with ❤️
 
 ## Зображення
 
+<!-- <Carousel data={[img20220811162205.png, img20220811155856.png ]} /> -->
+
+<CarouselView />
+
+
 ::: gallery
-- ![](assets/img20220811162205.png)
-- ![](assets/img20220811155856.png)
-- ![](assets/img20220811155913.png)
-- ![](assets/img20220811160300.png)
-- ![](assets/img20220811161208.png)
-- ![](assets/img20220811162048.png)
-- ![](assets/img20220811161135.png)
-- ![](assets/img20220811161323.png)
-- ![](assets/img20220811161732.png)
-- ![](assets/img20220811161740.png)
-- ![](assets/img20220811161813.png)
-- ![](assets/img20220811161851.png)
-- ![](assets/img20220811161947.png)
-- ![](assets/img20220811162015.png)
-- ![](assets/img20220811162331.png)
-- ![](assets/img20220811162337.png)
-- ![](assets/img20220811162508.png)
-- ![](assets/img20220811161223.png)
-- ![](assets/img20220811162223.png)
+- ![](./assets/img20220811162205.png)
+- ![](./assets/img20220811155856.png)
+- ![](./assets/img20220811155913.png)
+- ![](./assets/img20220811160300.png)
+- ![](./assets/img20220811161208.png)
+- ![](./assets/img20220811162048.png)
+- ![](./assets/img20220811161135.png)
+- ![](./assets/img20220811161323.png)
+- ![](./assets/img20220811161732.png)
+- ![](./assets/img20220811161740.png)
+- ![](./assets/img20220811161813.png)
+- ![](./assets/img20220811161851.png)
+- ![](./assets/img20220811161947.png)
+- ![](./assets/img20220811162015.png)
+- ![](./assets/img20220811162331.png)
+- ![](./assets/img20220811162337.png)
+- ![](./assets/img20220811162508.png)
+- ![](./assets/img20220811161223.png)
+- ![](./assets/img20220811162223.png)
 :::
+<!-- </Carousel> -->
 
 
 

@@ -68,14 +68,14 @@ next:
 
 ## Зображення
 ::: gallery
-- ![](assets/img20220816124044.png)
-- ![](assets/img20220816123116.png)
-- ![](assets/img20220816122511.png)
-- ![](assets/img20220816123158.png) 
-- ![](assets/img20220816123814.png)
-- ![](assets/img20220816123856.png)
-- ![](assets/img20220816123904.png)
-- ![](assets/img20220816123912.png)
+- ![](./assets/img20220816124044.png)
+- ![](./assets/img20220816123116.png)
+- ![](./assets/img20220816122511.png)
+- ![](./assets/img20220816123158.png) 
+- ![](./assets/img20220816123814.png)
+- ![](./assets/img20220816123856.png)
+- ![](./assets/img20220816123904.png)
+- ![](./assets/img20220816123912.png)
 :::
 
 
