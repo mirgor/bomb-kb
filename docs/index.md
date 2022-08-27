@@ -10,7 +10,7 @@ actions:
   - text: Курс з безпеки
     link: "/#knowledge"
     type: primary
-  - text: Довідник мін
+  - text: Довідник
     link: /catalog/index.html
     type: secondary
 ---
@@ -18,6 +18,8 @@ actions:
 [[toc]]
 
 # Knowledge 
+[ДСНС України](dsns-gallery.md)
+
 
 ## test markdown-it-attrs [.green]
 
@@ -50,26 +52,26 @@ Knowledge base on explosive objects on the territory of Ukraine after the invasi
 
 test 🤨
 
-![](./assets/img20220807101146.png)
-
-::: warning
-
-This is a warning
-
-:::
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPAUSe4bX7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-> [!note]
->
-> kjlkj
->
-> kjljkjl
-
-
-VuePress 2 is out :tada: !
 
 ![](./assets/bombs.png)
 Фото: facebook.com/GeneralStaff.ua
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NHu5S-S1dsE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98NwayIhG9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0JjXQUHzdhY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-DekGvcqboM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Aw8RrKS_y_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJ2-31j4oXT7YNWjqt5fV70BK3pqs5pW-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# ДИВІТЬСЯ ПІД НОГИ.
+
+### Якими боєприпасами буде всипано Україну,  
+коли її території звільнять від росіян
+
+https://texty.org.ua/articles/106909/dyvitsya-pid-nohy-yakymy-boyeprypasamy-bude-vsypano-ukrayinu-koly-yiyi-terytoriyi-zvilnyat-vid-rosiyan/

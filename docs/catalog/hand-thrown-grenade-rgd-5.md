@@ -1,7 +1,7 @@
 ---
 title: Ручна граната РГД-5
 tags: 
-aliases: РГД-5
+aliases: Граната РГД-5
 keywords:
 cssclass:
 publish: false

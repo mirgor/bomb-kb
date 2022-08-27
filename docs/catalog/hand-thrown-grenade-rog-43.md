@@ -1,7 +1,7 @@
 ---
 title: Ручна граната РОГ-43
 tags: grenade, граната
-aliases: РОГ-43
+aliases: Граната РОГ-43
 keywords:
 cssclass:
 publish: false

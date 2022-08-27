@@ -7,6 +7,8 @@ const { containerPlugin } = require('@vuepress/plugin-container');
 const { localTheme } = require('./theme');
 
 module.exports = {
+    base: "/",
+
     lang: `uk-UA`,
     title: `Міни в Україні`,
     description: `Довідник вибухонебезпечних предметів в Україні після нападу росії`,
@@ -24,7 +26,7 @@ module.exports = {
         logo: '/images/no-bomb.svg',
         //https://v2.vuepress.vuejs.org/reference/default-theme/config.html#sidebar
         sidebar: 'auto',
-        sidebarDepth: 1,
+        sidebarDepth: 2,
         contributors: false,
         lastUpdated: true,
         lastUpdatedText: "Оновлено",
