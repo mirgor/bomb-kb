@@ -11,6 +11,9 @@ const {
   registerComponentsPlugin,
 } = require("@vuepress/plugin-register-components");
 module.exports = {
+
+  base: "/",
+
   lang: `uk-UA`,
   title: `Міни в Україні`,
   description: `Довідник вибухонебезпечних предметів в Україні після нападу росії`,
@@ -22,50 +25,26 @@ module.exports = {
     // options for markdown-it-toc
     toc: { includeLevel: [1, 2, 3] },
   },
-
+  
   theme: defaultTheme({
-    // default theme config defaultTheme localTheme
-    logo: "/images/no-bomb.svg",
-    //https://v2.vuepress.vuejs.org/reference/default-theme/config.html#sidebar
-    sidebar: "auto",
-    sidebarDepth: 1,
-    contributors: false,
-    lastUpdated: true,
-    lastUpdatedText: "Оновлено",
-    navbar: [
-      {
-        text: "Курс з безпеки",
-        link: "/",
-      },
-      {
-        text: "Довідник мін",
-        link: "/catalog",
-      },
-    ],
-  }),
-  footer: [
-    {
-      text: "Latest Posts",
-      link: "/catalog",
-    },
-    {
-      text: "Facebook",
-      link: "https://facebook.com/",
-    },
-    {
-      text: "Twitter",
-      link: "https://twitter.com",
-    },
-    {
-      text: "Github",
-      link: "https://github.com/",
-    },
-  ],
-  plugins: [
-    registerComponentsPlugin({
-      components: {
-        Carousel: path.resolve(__dirname, "./components/Carousel.vue"),
-      },
+      // default theme config defaultTheme localTheme
+      logo: '/images/no-bomb.svg',
+      //https://v2.vuepress.vuejs.org/reference/default-theme/config.html#sidebar
+      sidebar: 'auto',
+      sidebarDepth: 2,
+      contributors: false,
+      lastUpdated: true,
+      lastUpdatedText: "Оновлено",
+      navbar: [
+          {
+              text: 'Курс з безпеки',
+              link: '/',
+          },
+          {
+              text: 'Довідник мін',
+              link: '/catalog',
+          },
+      ],
     }),
     externalLinkIconPlugin({
       locales: {
@@ -91,7 +70,6 @@ module.exports = {
       before: (info) => `<div class="img-gallery">${info}`,
       after: (info) => "</div>",
     }),
-
     containerPlugin({
       type: "heroImage",
       defaultTitle: "",
@@ -101,5 +79,11 @@ module.exports = {
       before: (info) => `<div class="theorem"><p class="title">${info}</p>`,
       after: (info) => "</div>",
     }),
+    plugins: [
+    registerComponentsPlugin({
+      components: {
+        Carousel: path.resolve(__dirname, "./components/Carousel.vue"),
+      },
+    })
   ],
 };

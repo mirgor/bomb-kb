@@ -17,6 +17,7 @@
     "test": "test",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
+    "docs:check": "serve docs/.vuepress/dist/",
     "info": "vuepress info"
   },
   "keywords": [
