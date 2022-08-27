@@ -96,14 +96,13 @@ next:
 - ![](./assets/ozm-3_11.png)
 - ![](./assets/ozm-3_10.png)
 - ![](./assets/ozm-3_9.png)
-- - ![](./assets/ozm-3_5.png)
+- ![](./assets/ozm-3_5.png)
 - ![](./assets/ozm-3_4.png)
 - ![](./assets/ozm-3_3.png)
 - ![](./assets/ozm-3_2.png)
 - ![](./assets/mines-ozm.png)
 - ![](./assets/ozm-3_bucha.png)
 :::
-
 
 
 #### Інформаційні джерела

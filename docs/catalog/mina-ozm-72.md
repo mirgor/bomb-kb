@@ -110,7 +110,6 @@ next:
 - ![](./assets/ozm-72_1.png)
 - ![](./assets/ozm-72.png)
 - ![](./assets/ozm-72_8.png)
-
 :::
 
 #### Інформаційні джерела

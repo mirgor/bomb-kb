@@ -1,7 +1,7 @@
 ---
-layout: 
+# layout: MyLayout
 
-# Custom KB params
+# # Custom KB params
 title: Міна дистанційного мінування ПФМ-1С
 subtitle: "Міна протипіхотна фугасна дистанційного мінування ПФМ-1С"
 description: "ПФМ-1 «Лепесток» — протипіхотна міна натискної дії радянського виробництва. Заборонена Оттавською конвенцією. "
@@ -25,6 +25,7 @@ next:
 ---
 
 ← [Повернутись](./index.md)
+
 
 # Міна дистанційного мінування ПФМ-1
 
@@ -105,6 +106,11 @@ next:
 
 ## Зображення
 
+<!-- <Carousel data={[img20220811162205.png, img20220811155856.png ]} /> -->
+
+<CarouselView />
+
+
 ::: gallery
 - ![](./assets/pfm_4.png)
 - ![](./assets/pfm-y.png)
@@ -126,6 +132,7 @@ next:
 - ![](./assets/pfm-pack_4.png)
 - ![](./assets/pfm-pack_1.png)
 :::
+<!-- </Carousel> -->
 
 
 

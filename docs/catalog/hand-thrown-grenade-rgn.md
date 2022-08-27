@@ -75,7 +75,6 @@ next:
 ![](./assets/rgn-rgo-pack.png)
 
 
-
 #### Інформаційні джерела
 
 1.  Матеріал з Вікіпедії [МОН-50](https://uk.wikipedia.org/wiki/%D0%9C%D0%9E%D0%9D-50)
