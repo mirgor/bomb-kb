@@ -2,8 +2,8 @@ node_modules
 .temp
 .cache
 .obsidian
-docs/.vuepress/dist/assets/*.
-docs/.vuepress/dist/catalog/*.
-docs/.vuepress/dist/images/*.
+docs/.vuepress/dist/assets/*
+docs/.vuepress/dist/catalog/*
+docs/.vuepress/dist/images/*
 __temp
 
