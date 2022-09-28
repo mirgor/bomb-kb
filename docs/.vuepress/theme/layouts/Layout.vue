@@ -18,7 +18,6 @@ const heroImage = computed(() => {
   return frontmatter.value.heroImage
 })
 
-
 const HomeHeroImage: FunctionalComponent = () => {
   if (!heroImage.value) return null
   const img = h('img', {

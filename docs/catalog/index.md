@@ -34,9 +34,10 @@ gallery:
 ### Гранатометні постріли
 
 ## Ручні гранати
+- [Ф-1](hand-thrown-grenade-f1.md)
+- [РОГ-43](./hand-thrown-grenade-rog-43.md)
 - [РГН та РГО](./hand-thrown-grenade-rgn.md)
 - [РГД-5](./hand-thrown-grenade-rgd-5.md)
-- [РОГ-43](./hand-thrown-grenade-rog-43.md)
 
 ## Касетні боєприпаси
 
@@ -56,7 +57,7 @@ gallery:
 
 ### Пристрої керування
 
-- [НВУ-П “Охота”](nvup-ohota.md)
+- [НВУ-П “Охота”](./nvup-ohota.md)
 
 ### Міни пастки
 
@@ -67,12 +68,12 @@ gallery:
 
 ### Протипіхотні осколкові міни
 - [Міна ОЗМ-3](./mina-ozm-3.md)
-- [Міна ОЗМ-4](mina-ozm-4.md)
+- [Міна ОЗМ-4](./mina-ozm-4.md)
 - [Міна ОЗМ-72 «Відьма»](./mina-ozm-72.md)
 - [Міна МОН-50](./mina-mon-50.md)
 - [Міна МОН-90](./mina-mon-90.md)
 - [Міна МОН-100](./mina-mon-100.md)
-- [Міна МОН-200](mina-mon-200.md)
+- [Міна МОН-200](./mina-mon-200.md)
 
 ### Протипіхотні фугасні міни
 - [Міна ПМН](./mina-pmn.md)
@@ -88,9 +89,9 @@ gallery:
 
 
 ## Ручні гранати
-- [Гранати РГН та РГО](hand-thrown-grenade-rgn.md)
-- [Граната РГД-5](hand-thrown-grenade-rgd-5.md)
-- [Граната РОГ-43](hand-thrown-grenade-rog-43.md)
+- [Гранати РГН та РГО](./hand-thrown-grenade-rgn.md)
+- [Граната РГД-5](./hand-thrown-grenade-rgd-5.md)
+- [Граната РОГ-43](./hand-thrown-grenade-rog-43.md)
 
 
 https://cat-uxo.com/explosive-hazards/mortars/100mm-mwms-100m-mortar

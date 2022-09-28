@@ -75,4 +75,4 @@ Short info
 2.
 
 
-![](assets/dont-tuch.png)
+![](./assets/dont-tuch.png)

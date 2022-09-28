@@ -228,6 +228,9 @@
 
 
 @media (max-width: 719px){
+  .home .hero img {
+    max-height: 280px;
+  }
   .img-gallery {
     ul li {
       flex-basis: 100%;
@@ -258,4 +261,11 @@
 p:contains('[!note]') {
   background-color: #2d68b0;
   margin: 0;
+}
+
+.home .hero img {
+  object-fit: cover ; /* Do not scale the image */
+  object-position: center; /* Center the image within the element */
+  max-height: 500px;
+  width: 100%;
 }
