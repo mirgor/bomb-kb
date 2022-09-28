@@ -20,6 +20,10 @@
     "docs:check": "serve docs/.vuepress/dist/",
     "info": "vuepress info"
   },
+  "engines": {
+    "npm": ">=6.14.0 <9.0.0",
+    "node": ">=14.0.0 <17.0.0"
+  },
   "keywords": [
     "knowledgebase",
     "bomb"
