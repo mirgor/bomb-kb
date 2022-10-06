@@ -20,35 +20,52 @@ actions:
 
 ## Частина 1. Дорога додому
 
-![](./assets/img1.png)
+<style>
+  .lightboxContainer {
+    position:relative;
+    display:inline-block;
+  }
+  .lightboxContainer:after {
+    content:url("/images/playbutton.png");
+    z-index:999;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-left:-32px;
+    margin-top:-32px;
+    opacity:0.8;
+  }
+  .lightboxContainer:hover:after {
+    opacity:1;
+  }  
+  .lightboxContainer img {
+    width: 640px;
+    object-fit: cover;
+    object-position: center;
+    height: 300px;
+  }
+</style>
+<div class="video-thumbnail">
+  <a href="https://bezpeka.s3.amazonaws.com/mini/story_html5.html" target="_blank">
+    <div class="lightboxContainer">
+    <img class="play_course" src="./assets/img1.png">
+    </div>
+  </a>
+</div>
 
-> temp
-> src="/course/episode-1/story.html"
-
-
-<iframe
-  src="https://bezpeka.s3.amazonaws.com/mini/story_html5.html" 
-  title="Episode 1" 
-  frameborder="0"
-  scrolling="no" 
-  width = "100%"
-  height = "550px"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
+Тут текст про те що тут буде
 
 
 ## Частина 2. Рідне місто
 
 
-
-::: gallery
-- ![](./assets/img1.png)
-- ![](./assets/img2.png)
-:::
-
-
-![](./assets/bombs.png)
-Фото: facebook.com/GeneralStaff.ua
+<div class="video-thumbnail">
+  <a href="https://bezpeka.s3.amazonaws.com/mini/story_html5.html" target="_blank">
+    <div class="lightboxContainer">
+    <img class="play_course" src="./assets/img2.png">
+    </div>
+  </a>
+</div>
 
 
 

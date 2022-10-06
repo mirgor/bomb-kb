@@ -21,5 +21,3 @@
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aw8RrKS_y_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJ2-31j4oXT7YNWjqt5fV70BK3pqs5pW-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
