@@ -101,7 +101,7 @@ next:
 
 - ![](./assets/pmn-2.png)
 - ![](https://texty.org.ua/before_christ/thumbnail/94/94467.jpg)
-- ![](assets/pmn-pack.png)
+- ![](./assets/pmn-pack.png)
 - ![](./assets/pmn-2_6.png)
 - ![](./assets/pmn-2_5.png)
 -

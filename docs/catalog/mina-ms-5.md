@@ -18,8 +18,8 @@ prev:
   text: МС-2
   link: /catalog/mina-pmd-6-ms-2.html
 next:
-  text: ПМН-2
-  link: /catalog/mina-pmd-6-ms-2.html
+  text: МЛ-7
+  link: /catalog/mina-ml-7.html
 ---
 
 ← [Повернутись](../index.md)
