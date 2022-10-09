@@ -111,6 +111,7 @@ next:
 - ![](./assets/mon-50_7.png)
 - ![](./assets/mon-50_8.png)
 - ![](./assets/mon-50_2.png)
+- ![](assets/ml-8-mon-50.png)
   :::
 
 #### Інформаційні джерела
