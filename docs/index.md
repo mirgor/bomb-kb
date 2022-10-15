@@ -20,31 +20,7 @@ actions:
 
 ## Частина 1. Дорога додому
 
-<style>
-  .lightboxContainer {
-    position:relative;
-    display:inline-block;
-  }
-  .lightboxContainer:after {
-    content:url("/images/playbutton.png");
-    z-index:999;
-    position:absolute;
-    top:50%;
-    left:50%;
-    margin-left:-32px;
-    margin-top:-32px;
-    opacity:0.8;
-  }
-  .lightboxContainer:hover:after {
-    opacity:1;
-  }  
-  .lightboxContainer img {
-    width: 640px;
-    object-fit: cover;
-    object-position: center;
-    height: 300px;
-  }
-</style>
+
 <div class="video-thumbnail">
   <a href="https://bezpeka.s3.amazonaws.com/mini/story_html5.html" target="_blank">
     <div class="lightboxContainer">
