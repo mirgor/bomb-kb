@@ -12,6 +12,9 @@
 
 ДИВІТЬСЯ ПІД НОГИ. [Якими боєприпасами буде всипано Україну, коли її території звільнять від росіян](https://texty.org.ua/articles/106909/dyvitsya-pid-nohy-yakymy-boyeprypasamy-bude-vsypano-ukrayinu-koly-yiyi-terytoriyi-zvilnyat-vid-rosiyan/)
 
+ЛЕТЮЧА СМЕРТЬ. [Все про російські ракети](https://texty.org.ua/articles/106433/letyucha-smert/) - Російські крилаті й балістичні ракети в питаннях,  відповідях та інфографіці
+
+
 
 ## Підбірка відео
 

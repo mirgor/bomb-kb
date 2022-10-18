@@ -92,7 +92,7 @@ next:
 
 ::: gallery
 
-- ![](./assets/ozm-3_7.png)
+- ![](./assets/ozm-3_7.jpg)
 - ![](./assets/ozm-3_1.png)
 - ![](./assets/ozm-3_11.png)
 - ![](./assets/ozm-3_10.png)
