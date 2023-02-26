@@ -86,6 +86,7 @@ next:
 ## Зображення
 
 ::: gallery
+
 ![](./assets/ptab1m-7.png)
 - ![](./assets/ptab1m-1.png)
 - ![](./assets/ptab1m-3.png)
@@ -98,7 +99,8 @@ next:
 - ![](./assets/ptab1m-9.png)
 - ![](./assets/ptab1m-11.png)
 - ![](./assets/ptab1m-12.png)
-- 
+- ![](./assets/ptab-1m.png)
+- ![](./catalog/assets/ptab-multy.png)
 
 :::
 
