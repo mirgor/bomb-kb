@@ -81,9 +81,9 @@ next:
 
 ::: gallery
 
-- ![](assets/ptab1m-1.png)
-- ![](assets/rbk-500-2.png)
-- ![](assets/ptab1m-2.png)
+- ![](./assets/ptab1m-1.png)
+- ![](./assets/rbk-500-2.png)
+- ![](./assets/ptab1m-2.png)
 - 
 
 :::

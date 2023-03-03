@@ -100,7 +100,7 @@ next:
 - ![](./assets/ptab1m-11.png)
 - ![](./assets/ptab1m-12.png)
 - ![](./assets/ptab-1m.png)
-- ![](./catalog/assets/ptab-multy.png)
+- ![](./assets/ptab-multy.png)
 
 :::
 
